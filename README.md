@@ -54,7 +54,3 @@
   npm run autoRef
   ```
 - accounts information saved at `accountsReff.txt` and tokens auto saved to `tokensReff.txt`
-
-## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-This project is licensed under the [MIT License](LICENSE).
